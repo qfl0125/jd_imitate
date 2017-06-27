@@ -12,10 +12,8 @@
 		color: #B1191A;
 	}
 	.w{
-		width: 85%;
-		min-width: 1190px;
+		width: 1190px;
 		margin: 0 auto;
-	}
 	}
 
 	body{
@@ -34,9 +32,8 @@
 		background-color: #e3e4e5;
 	}
 	#shortout .w{
-		width: 85%;
+		width: 1190px;
 		height: 30px;
-		min-width: 1190px;
 	/* background-color: #8FBAAD; *//* 区分快 */
 		margin: 0 auto;
 	}
@@ -926,6 +923,12 @@
 		    height: 225px;
 		    padding: 0 14px 0 15px;
 		    border-right: 1px solid #e7e7e7;
+	}
+	.seckill_lef ul li .li_img a img{
+		text-align: center;
+		position: relative;
+		top: 0px;
+		left: 20px
 	}
 	.img_foot{
 		height: 20px;

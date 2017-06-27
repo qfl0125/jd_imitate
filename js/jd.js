@@ -484,7 +484,7 @@ window.onload=function () {
          }
          var Oseckill=document.getElementsByClassName('seckill')[0];
        //  console.log(ali_img5);
-
+              //切换
               Oseckill.onmouseover= $id("prev2").onmouseover=$id("next2").onmouseover=function () {
                 // body...
                 $id("prev2").style.display='block';
@@ -505,8 +505,6 @@ window.onload=function () {
                $id("prev2").style.display='none';
                $id("next2").style.display='none';
               }
-
-
 //尾部    
 //侧边导航
         function $id(id) {
